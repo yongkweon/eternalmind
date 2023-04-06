@@ -1,0 +1,17 @@
+h1{
+    align-content: center;
+    font-weight: bolder;
+    color:blue;
+}
+
+.container{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around;
+}
+
+.footer{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-around;
+}
